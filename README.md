@@ -7,7 +7,7 @@ auto-spawns them. Your project's `CLAUDE.md` is the router — a **"Specialist a
 section there points the working agent at the right file, which it then reads and
 adopts for the duration of the task.
 
-23 roles across 6 departments, plus a leadership layer that coordinates them.
+24 roles across 6 departments, plus a leadership layer that coordinates them.
 
 ## Reference stack
 
@@ -38,6 +38,7 @@ framework):
 | **UX / Product Designer** | [`ux-designer.md`](ux-designer.md) | Flows, IA, interaction & states, wireframes, microcopy |
 | **UX Researcher** | [`ux-researcher.md`](ux-researcher.md) | Research plans, usability testing, interviews, synthesis, personas |
 | **Technical Writer** | [`technical-writer.md`](technical-writer.md) | Docs (Diátaxis), API reference, runbooks, changelogs, release notes |
+| **Codebase Documentarian** | [`codebase-documentarian.md`](codebase-documentarian.md) | Whole-repo comprehension → an Obsidian knowledge graph: architecture map, module atlas, domain glossary, decision log, onboarding |
 
 ### Engineering
 | Persona | File | Owns |
@@ -104,7 +105,8 @@ Use-The-Index-Luke (Winand), Core Web Vitals + WCAG 2.2 (W3C WAI, Deque, WebAIM)
 Refactoring UI + NN/g + Norman (design), Cagan/Torres/JTBD (product), Diátaxis (docs),
 OWASP/ASVS/STRIDE (security), Google SRE + *Accelerate*/DORA (reliability & delivery),
 Kimball + dbt + Kohavi (data & experiments), Brooks + Team Topologies (coordination),
-Nygard ADRs + C4 + evolutionary architecture (architecture).
+Nygard ADRs + C4 + evolutionary architecture (architecture), Naur's theory-building +
+Reflexion models + Feathers + LYT/Obsidian (codebase comprehension & knowledge graphs).
 
 ## Adopting these in a project
 
